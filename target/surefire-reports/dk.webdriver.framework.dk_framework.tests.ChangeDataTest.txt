@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dk.webdriver.framework.dk_framework.tests.ChangeDataTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 84.128 sec

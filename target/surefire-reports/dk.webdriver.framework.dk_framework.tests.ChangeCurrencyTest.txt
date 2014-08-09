@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dk.webdriver.framework.dk_framework.tests.ChangeCurrencyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 73.443 sec
